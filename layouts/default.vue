@@ -1,16 +1,9 @@
 <template>
+  <div class="grid min-h-screen w-full lg:grid-cols-[256px_1fr] bg-gray-100 dark:bg-gray-900 dark:text-white">
+  <Sidebar />
   <div class="flex min-h-screen">
-    <Sidebar />
-    <div class="flex-1 bg-gray-100 dark:bg-gray-900 dark:text-white">
-      <section id="home" class="py-12 px-4 md:px-8 lg:py-16">
-        <div class="mx-auto max-w-3xl">
-          <h1 class="text-3xl font-bold md:text-4xl">Hi, I'm John Doe</h1>
-          <p class="mt-4 text-gray-600 dark:text-gray-400">
-            I'm a passionate web developer with a strong background in front-end technologies. I love creating
-            beautiful and user-friendly web applications that solve real-world problems.
-          </p>
-        </div>
-      </section>
+    <main class="flex-1">
+      <Home />
       <section id="technologies" class="bg-gray-200 py-12 px-4 md:px-8 lg:py-16 dark:bg-gray-800">
         <div class="mx-auto max-w-3xl">
           <h2 class="text-2xl font-bold md:text-3xl">Technologies</h2>
@@ -212,7 +205,8 @@
           </form>
         </div>
       </section>
-    </div>
+    </main>
+  </div>
   </div>
 </template>
 

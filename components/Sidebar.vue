@@ -1,5 +1,5 @@
 <template>
-  <div class="hidden w-64 border-r border-gray-700 bg-gray-900 text-white md:block">
+  <div class="hidden w-64 border-r border-gray-700 bg-gray-900 text-white lg:block">
     <div class="flex flex-col w-64 h-screen fixed">
       <div class="flex items-center justify-center border-b py-5 border-gray-700">
         <img src="~/assets/img/logo-white.svg" alt="Antonio Yves Logo" width="200px"/>
