@@ -51,8 +51,5 @@
 </template>
 
 <script setup lang="ts">
-  import {FontAwesomeIcon} from "@fortawesome/vue-fontawesome";
-  import { faGithub, faLinkedinIn, faInstagram } from "@fortawesome/free-brands-svg-icons";
-
   const year = new Date().getFullYear();
 </script>

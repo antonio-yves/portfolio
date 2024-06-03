@@ -3,7 +3,7 @@
     <div class="px-4 md:px-6 lg:container">
       <div class="flex flex-col space-y-8 gap-x-16 lg:flex-row">
         <div class="flex items-center justify-center">
-          <img src="../assets/img/antonio-yves.jpg" alt="Antonio Yves"
+          <img src="~/assets/img/antonio-yves.jpg" alt="Antonio Yves"
                class="rounded-full" width="300" height="300" />
         </div>
         <div class="space-y-4">
