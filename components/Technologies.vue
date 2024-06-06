@@ -10,64 +10,64 @@
       </div>
       <div class="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         <UITechnologyCard label="Python">
-          <SimpleIconsPython class="w-8 h-8 fill-white" />
+          <SimpleIconsPython class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Django">
-          <SimpleIconsDjango class="w-8 h-8 fill-white" />
+          <SimpleIconsDjango class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="FastAPI">
-          <SimpleIconsFastAPI class="w-8 h-8 fill-white" />
+          <SimpleIconsFastAPI class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Flask">
-          <SimpleIconsFlask class="w-8 h-8 fill-white" />
+          <SimpleIconsFlask class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Celery">
-          <SimpleIconsCelery class="w-8 h-8 fill-white" />
+          <SimpleIconsCelery class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="PostgreSQL">
-          <SimpleIconsPostgreSQL class="w-8 h-8 fill-white" />
+          <SimpleIconsPostgreSQL class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Oracle Database">
-          <SimpleIconsOracleDatabase class="w-8 h-8 fill-white" />
+          <SimpleIconsOracleDatabase class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="MongoDB">
-          <SimpleIconsMongoDB class="w-8 h-8 fill-white" />
+          <SimpleIconsMongoDB class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Redis">
-          <SimpleIconsRedis class="w-8 h-8 fill-white" />
+          <SimpleIconsRedis class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Spring">
-          <SimpleIconsSpring class="w-8 h-8 fill-white" />
+          <SimpleIconsSpring class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="JavaScript">
-          <SimpleIconsJavaScript class="w-8 h-8 fill-white" />
+          <SimpleIconsJavaScript class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Vue.js">
-          <SimpleIconsVueJS class="w-8 h-8 fill-white" />
+          <SimpleIconsVueJS class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Node.js">
-          <SimpleIconsNodeJS class="w-8 h-8 fill-white" />
+          <SimpleIconsNodeJS class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Nuxt.js">
-          <SimpleIconsNuxtJS class="w-8 h-8 fill-white" />
+          <SimpleIconsNuxtJS class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="jQuery">
-          <SimpleIconsJQuery class="w-8 h-8 fill-white" />
+          <SimpleIconsJQuery class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Bootstrap">
-          <SimpleIconsBootstrap class="w-8 h-8 fill-white" />
+          <SimpleIconsBootstrap class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Tailwind CSS">
-          <SimpleIconsTailwindCSS class="w-8 h-8 fill-white" />
+          <SimpleIconsTailwindCSS class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Docker">
-          <SimpleIconsDocker class="w-8 h-8 fill-white" />
+          <SimpleIconsDocker class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="AWS">
-          <SimpleIconsAWS class="w-8 h-8 fill-white" />
+          <SimpleIconsAWS class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
         <UITechnologyCard label="Google Cloud">
-          <SimpleIconsGoogleCloud class="w-8 h-8 fill-white" />
+          <SimpleIconsGoogleCloud class="w-8 h-8 fill-gray-400 dark:fill-white" />
         </UITechnologyCard>
       </div>
     </div>

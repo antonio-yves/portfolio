@@ -25,23 +25,23 @@
                 <span>Experience</span>
               </a>
             </li>
-            <li>
-              <a class="flex items-center space-x-2 rounded-md px-3 py-2 hover:bg-gray-800" href="#projects" rel="ugc">
-                <IconsSourceCode class="w-[24px] h-[24px]" />
-                <span>Projects</span>
-              </a>
-            </li>
-            <li>
-              <a class="flex items-center space-x-2 rounded-md px-3 py-2 hover:bg-gray-800" href="#contact" rel="ugc">
-                <IconsMail class="w-[24px] h-[24px]" />
-                <span>Contact</span>
-              </a>
-            </li>
+<!--            <li>-->
+<!--              <a class="flex items-center space-x-2 rounded-md px-3 py-2 hover:bg-gray-800" href="#projects" rel="ugc">-->
+<!--                <IconsSourceCode class="w-[24px] h-[24px]" />-->
+<!--                <span>Projects</span>-->
+<!--              </a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--              <a class="flex items-center space-x-2 rounded-md px-3 py-2 hover:bg-gray-800" href="#contact" rel="ugc">-->
+<!--                <IconsMail class="w-[24px] h-[24px]" />-->
+<!--                <span>Contact</span>-->
+<!--              </a>-->
+<!--            </li>-->
           </ul>
         </nav>
         <div class="flex flex-col px-3">
           <span class="text-sm text-gray-500 py-2">Useful Links</span>
-          <a class="flex items-center space-x-2 hover:text-gray-400" href="#">
+          <a class="flex items-center space-x-2 hover:text-gray-400" href="pdf/Resume_Antonio_Yves.pdf" target="_blank">
             <span>Access CV</span> <IconsExternalLink class="w-[16px] h-[16px]" />
           </a>
           <div class="flex space-x-2 py-4">
